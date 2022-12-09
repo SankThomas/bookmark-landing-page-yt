@@ -33,7 +33,7 @@ export default function FAQs() {
 
   return (
     <>
-      <section className="max-w-xl mx-auto py-20">
+      <section className="max-w-xl mx-auto px-8 py-20">
         <article className="text-center">
           <h2 className="text-3xl mb-8 lg:text-4xl">
             Frequently Asked Questions
